@@ -37,12 +37,16 @@ here is the flow diagram for the mat user.
 
 here is the video for the mat calibration flow.
 
-video file need to be added.
+https://user-images.githubusercontent.com/117351368/206195827-86947f77-541d-4cae-93fe-c53943368e94.mp4
 
 
 ### **Non Mat User**
 
 here is the flow diagram for the non mat user.
+
+
+
+
 
 ![Onboarding Flow](non-mat-user-onboarding-flow.png?raw=true "Onboarding Flow")
 
